@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.0663d69c.css",
-    "main.js": "/static/js/main.04b0f7b3.js",
+    "main.css": "/static/css/main.06129655.css",
+    "main.js": "/static/js/main.70734e6f.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/dragon_spaghettiWiggle0000.png": "/static/media/dragon_spaghettiWiggle0000.8092c56385d754e8dba4.png",
+    "static/media/profilePictureWollfieDiscordBrownHair.png": "/static/media/profilePictureWollfieDiscordBrownHair.d54839ebe6497e417b09.png",
+    "static/media/iconSnowDayBardFinalSigned.png": "/static/media/iconSnowDayBardFinalSigned.dca5589bf582a3341764.png",
+    "static/media/WatermelonKawaii.png": "/static/media/WatermelonKawaii.0e3001d27e62f6bdd771.png",
+    "static/media/Peche_En_Foret.png": "/static/media/Peche_En_Foret.18ce29eda5971924b118.png",
+    "static/media/Dragon_Thumbnail.png": "/static/media/Dragon_Thumbnail.1029c3b212188bdd1514.png",
+    "static/media/LogoProposal.png": "/static/media/LogoProposal.e61c0fedc72c7c9b665f.png",
+    "static/media/PoliceBotLogo.png": "/static/media/PoliceBotLogo.569db4181edaff0f2ad3.png",
+    "static/media/GeoMapBotLogo.png": "/static/media/GeoMapBotLogo.79e4c612391003e111a2.png",
+    "static/media/CutieInHerPlane.png": "/static/media/CutieInHerPlane.ac3c8e1ffa7ca5a49d96.png",
+    "static/media/Bard.png": "/static/media/Bard.661b1ed8b321e7c9aabf.png",
     "index.html": "/index.html",
-    "main.0663d69c.css.map": "/static/css/main.0663d69c.css.map",
-    "main.04b0f7b3.js.map": "/static/js/main.04b0f7b3.js.map",
+    "main.06129655.css.map": "/static/css/main.06129655.css.map",
+    "main.70734e6f.js.map": "/static/js/main.70734e6f.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0663d69c.css",
-    "static/js/main.04b0f7b3.js"
+    "static/css/main.06129655.css",
+    "static/js/main.70734e6f.js"
   ]
 }
