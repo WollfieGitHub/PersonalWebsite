@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.c9b8a1c4.css",
-    "main.js": "/static/js/main.4aa95290.js",
+    "main.js": "/static/js/main.72915e5f.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/Tonkar.png": "/static/media/Tonkar.cedbe97af8d1f8b6e99f.png",
-    "static/media/dragon_spaghettiWiggle0000.png": "/static/media/dragon_spaghettiWiggle0000.8092c56385d754e8dba4.png",
     "static/media/profilePictureWollfieDiscordBrownHair.png": "/static/media/profilePictureWollfieDiscordBrownHair.d54839ebe6497e417b09.png",
+    "static/media/dragon_spaghettiWiggle0000.png": "/static/media/dragon_spaghettiWiggle0000.a4653f320b34e272aa23.png",
     "static/media/iconSnowDayBardFinalSigned.png": "/static/media/iconSnowDayBardFinalSigned.dca5589bf582a3341764.png",
     "static/media/LogoProposal.png": "/static/media/LogoProposal.e61c0fedc72c7c9b665f.png",
     "static/media/PoliceBotLogo.png": "/static/media/PoliceBotLogo.569db4181edaff0f2ad3.png",
@@ -13,11 +13,11 @@
     "static/media/ProfilePicture.png": "/static/media/ProfilePicture.66819c796687176a6ec0.png",
     "index.html": "/index.html",
     "main.c9b8a1c4.css.map": "/static/css/main.c9b8a1c4.css.map",
-    "main.4aa95290.js.map": "/static/js/main.4aa95290.js.map",
+    "main.72915e5f.js.map": "/static/js/main.72915e5f.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9b8a1c4.css",
-    "static/js/main.4aa95290.js"
+    "static/js/main.72915e5f.js"
   ]
 }
