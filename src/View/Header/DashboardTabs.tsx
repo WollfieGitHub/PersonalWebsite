@@ -25,7 +25,7 @@ export const DashboardTabs = (props: DashboardTabsProps) => {
             <Tabs value={value} onChange={handleChange} aria-label="basic tabs example">
                 {
                     props.children?.map((child, i) => {
-                        return <Tab label={
+                        return <Tab key={i} label={
                             <Typography variant={'h5'}>{ child.tabName }</Typography>
                         } {...a11yProps(i)} sx={{marginLeft: 5, marginRight: 5}}/>
                     })
@@ -34,7 +34,7 @@ export const DashboardTabs = (props: DashboardTabsProps) => {
         </Stack>
         {
             props.children?.map((child, i) => {
-                return <TabPanel value={value} index={i}>{ child.tab }</TabPanel>
+                return <TabPanel value={value} index={i} key={i}>{ child.tab }</TabPanel>
             })
         }
     </Box>

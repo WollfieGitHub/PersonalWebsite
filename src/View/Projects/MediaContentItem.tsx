@@ -28,13 +28,6 @@ export const MediaContentItem = (props: {
     )
     const url = ( typeof props.title === 'string' ? undefined : props.title.url)
 
-    console.log(theme.breakpoints.up('md'))
-
-    const sizeStyle = {
-        md: { height: 300, width: 'auto' },
-        xs: { height: 'auto', width: 300 },
-    }
-
     return <Grid item xs={1} md={1} lg>
         <Card color={'primary'} sx={{
             backgroundImage: 'none'
@@ -53,7 +46,7 @@ export const MediaContentItem = (props: {
                            justifyContent={'center'} alignItems={'center'}
                            flexWrap={'wrap'} alignContent={'cent'}
                     >
-                        { props.images.map(image =>
+                        { props.images.map((image, i) =>
                             <Box component={'img'} m={0} p={0} src={image.image} sx={{
                                 margin: 0, borderRadius: 10,
                                 border: (image.transparent ? 'none' : `solid 2px ${theme.palette.primary.main}`)
@@ -61,7 +54,7 @@ export const MediaContentItem = (props: {
                                 xs: 'auto', md: 'auto', lg: 300
                             }} width={{
                                 xs: 150, md: 300, lg: 'auto'
-                            }}
+                            }} key={i}
                             />
                         ) }
                     </Stack>

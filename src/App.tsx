@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from "react";
 import logo from './images/Renders/Others/Tonkar.png';
 import './App.css';
 import {createTheme, Divider, Stack, ThemeProvider} from "@mui/material";
@@ -46,6 +46,12 @@ const theme = createTheme({
 
 
 function App() {
+
+  useEffect(() => {
+    // @ts-ignore
+    document.body.style.backgroundColor = theme.palette.background.default;
+  }, [ ])
+
   return (
     <ThemeProvider theme={theme} >
       <div className="App" style={{

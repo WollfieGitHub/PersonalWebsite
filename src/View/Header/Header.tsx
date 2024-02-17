@@ -8,6 +8,7 @@ import {NameHeader} from "./NameHeader";
 import {PricingButton} from "./PricingButton";
 import {ContactButton} from "./ContactButton";
 import {Pricing} from "./Pricing";
+import PlaylistButton from "../../images/Music/PlaylistButton";
 
 export const Header = () => {
     
@@ -30,6 +31,7 @@ export const Header = () => {
                    alignItems={'center'} width={{ sm: '100%', md: '50%' }} paddingRight={{ sm: 0, md: 5 }}
                    spacing={4} gap={2} alignContent={'center'}
             >
+                <PlaylistButton/>
                 <PricingButton showPricingDialog={showPricingDialog}/>
                 <ContactButton/>
             </Stack>
