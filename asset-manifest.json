@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9b8a1c4.css",
-    "main.js": "/static/js/main.5c96896c.js",
-    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "main.css": "/static/css/main.117a25db.css",
+    "main.js": "/static/js/main.9eb1d90e.js",
+    "static/js/787.0f15b36d.chunk.js": "/static/js/787.0f15b36d.chunk.js",
     "static/media/Tonkar.png": "/static/media/Tonkar.cedbe97af8d1f8b6e99f.png",
     "static/media/shes_sleeping-menu_screen.png": "/static/media/shes_sleeping-menu_screen.c52a10a76d780b1910c8.png",
     "static/media/profilePictureWollfieDiscordBrownHair.png": "/static/media/profilePictureWollfieDiscordBrownHair.d54839ebe6497e417b09.png",
@@ -15,12 +15,12 @@
     "static/media/GeoMapBotLogo.png": "/static/media/GeoMapBotLogo.79e4c612391003e111a2.png",
     "static/media/ProfilePicture.png": "/static/media/ProfilePicture.66819c796687176a6ec0.png",
     "index.html": "/index.html",
-    "main.c9b8a1c4.css.map": "/static/css/main.c9b8a1c4.css.map",
-    "main.5c96896c.js.map": "/static/js/main.5c96896c.js.map",
-    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+    "main.117a25db.css.map": "/static/css/main.117a25db.css.map",
+    "main.9eb1d90e.js.map": "/static/js/main.9eb1d90e.js.map",
+    "787.0f15b36d.chunk.js.map": "/static/js/787.0f15b36d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9b8a1c4.css",
-    "static/js/main.5c96896c.js"
+    "static/css/main.117a25db.css",
+    "static/js/main.9eb1d90e.js"
   ]
 }
